@@ -1,0 +1,5 @@
+//https://babeljs.io/docs/usage/experimental/
+//Use ES7 Strawman features and up
+{
+  "stage": 0
+}

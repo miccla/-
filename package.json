@@ -1,0 +1,30 @@
+{
+  "name": "altTest",
+  "version": "0.0.1",
+  "description": "altTest",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^3.1.9",
+    "babel-loader": "^5.1.2",
+    "eslint": "^1.4.0",
+    "eslint-config-airbnb": "0.0.8",
+    "eslint-plugin-react": "^2.3.0",
+    "react-hot-loader": "^1.2.7",
+    "webpack": "^1.11.0",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "alt": "^0.17.1",
+    "bootstrap": "^3.3.5",
+    "react": "^0.13.3",
+    "react-bootstrap": "^0.24.5",
+    "react-bootstrap-table": "^0.9.14",
+    "react-mixin": "^1.7.0",
+    "react-router": "^1.0.0-beta3",
+    "react-select": "^0.6.7"
+  }
+}
